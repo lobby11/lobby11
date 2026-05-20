@@ -268,15 +268,6 @@ const nitin = {
 
 <br/>
 
-<div align="center">
-
-<h2>📈 GitHub Activity</h2>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
